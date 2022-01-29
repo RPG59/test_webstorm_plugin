@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rpg59.testwebstormplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rpg59.testwebstormplugin.MyBundle
 
 class MyApplicationService {
 

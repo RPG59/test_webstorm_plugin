@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.rpg59.testwebstormplugin.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.rpg59.testwebstormplugin.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
